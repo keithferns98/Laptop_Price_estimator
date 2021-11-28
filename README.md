@@ -1,2 +1,2 @@
 # Laptop_Price_estimator
-!(Screenshot (38).png)
+![Test Image 1](Screenshot (38).png)
